@@ -1,0 +1,9 @@
+meme_scraper.py
+server.py
+.git
+.github
+*.md
+__pycache__
+*.pyc
+.DS_Store
+Thumbs.db
